@@ -1,4 +1,7 @@
 # ReVamp-Ascent
+
+![ReVamp Ascent Logo](immagini/logo.png)
+
 **ReVamp Ascent** è una piattaforma e-commerce per la vendita di arredi e design, sviluppata in **Java** e progettata secondo una **Three-Tier Architecture (3 livelli)**, in modo da separare chiaramente presentazione, logica applicativa e accesso ai dati.
 Questa repository contiene **sia l’implementazione completa** del sistema sia **l’intera documentazione di progetto**, utile per ricostruire con precisione come è stato analizzato, progettato, realizzato e testato l’e-commerce.
 
